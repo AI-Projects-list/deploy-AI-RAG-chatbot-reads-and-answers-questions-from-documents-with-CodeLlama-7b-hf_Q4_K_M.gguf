@@ -1,0 +1,9 @@
+llama-cpp-python
+langchain
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+streamlit
+fastapi
+uvicorn
